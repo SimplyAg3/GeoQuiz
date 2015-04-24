@@ -1,8 +1,5 @@
 package geoquiz.com.scrubapps.com.geoquiz;
 
-/**
- * Created by John on 4/21/2015.
- */
 public class TrueFalse {
 
     private int mQuestion;
